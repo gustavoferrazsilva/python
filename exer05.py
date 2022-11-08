@@ -1,3 +1,5 @@
+#Cálculo da área do retângulo
+
 lado1= float (input('Informe o valor do lado1:'))
 lado2= float (input('Informe o valor do lado2:'))
 #print(type(lado1))

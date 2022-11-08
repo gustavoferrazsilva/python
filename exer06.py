@@ -1,4 +1,4 @@
-#calculado da média
+#Cálculo da média
 
 nota1 = int(input('A primeira nota é:'))
 nota2 = int(input('A segunda nota é:'))
